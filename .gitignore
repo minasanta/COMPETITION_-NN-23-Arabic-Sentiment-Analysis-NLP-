@@ -10,7 +10,7 @@
 *.userosscache
 *.sln.docstates
 NN 2023 [NLP Project].docx
-
+models_hdf5/
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
